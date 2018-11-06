@@ -1,0 +1,41 @@
+:root {
+    --primary-color: white;
+}
+
+hr {
+    width: 15rem;
+    border: 1px solid black;
+}
+nav {
+    background: black;
+    -webkit-box-shadow: -1px 5px 5px 0px rgba(0, 0, 0, 0.48);
+    -moz-box-shadow: -1px 5px 5px 0px rgba(0, 0, 0, 0.48);
+    box-shadow: -1px 5px 5px 0px rgba(0, 0, 0, 0.48);
+    position: fixed
+}
+
+a  {
+    color:var(--primary-color);
+}
+
+#footer {
+    background: black;
+    color: var(--primary-color);
+    padding: .5rem 1rem;
+}
+
+#header {
+    background: url('/public/img/code-coding-computer-574071.jpg') center center / cover no-repeat;
+    color: var(--primary-color);
+      border-radius: 0;
+}
+
+.navbar-brand:hover {
+   
+    transform: scale(0.9);
+}
+
+
+.hearty-red {
+    color: red;
+}

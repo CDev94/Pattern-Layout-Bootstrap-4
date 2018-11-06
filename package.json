@@ -1,0 +1,11 @@
+{
+  "name": "b4_pattern_layout",
+  "version": "1.0.0",
+  "description": "a bootstrap 4 project",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Curdarious Bell",
+  "license": "ISC"
+}
